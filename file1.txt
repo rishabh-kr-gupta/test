@@ -1,2 +1,6 @@
 This is comit 1
+this is feature 1 changes1
+this is feature 1 changes2
+this is feature 1 changes3
+this is feature 1 changes4
 This is line 2
