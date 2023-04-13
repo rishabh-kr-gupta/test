@@ -3,4 +3,7 @@ this is feature 1 changes1
 this is feature 1 changes2
 this is feature 1 changes3
 this is feature 1 changes4
+this is feature 1 changes7
+this is feature 1 changes5
+this is feature 1 changes6
 This is line 2
