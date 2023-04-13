@@ -6,4 +6,6 @@ this is feature 1 changes4
 this is feature 1 changes7
 this is feature 1 changes5
 this is feature 1 changes6
+this branch1 changesA.
+this branch1 changesB.
 This is line 2
